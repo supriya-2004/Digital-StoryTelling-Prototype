@@ -40,5 +40,8 @@ This document provides an overview of how the frames transition within the prese
 This ensures a **logical, structured, and flexible** navigation experience for the audience.  
 
 ---
+## 🔗Explore the interactive prototype on Figma:
+https://www.figma.com/proto/55uy9rGf4f4Xwnwr5q35VD/DIGITAL-STORYTELLING?node-id=1-4&p=f&t=yw62iHHHvxBuhDKT-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A4
+
 📝 **Tip:** If you're modifying the slides, make sure to update this document to reflect the new transitions.  
 🎯 **Goal:** A seamless, intuitive presentation journey! 🚀
